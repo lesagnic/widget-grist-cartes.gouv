@@ -1,0 +1,7 @@
+{
+  "name": "Widget GRIST cartes.gouv",
+  "description": "Permet de visualiser les lignes d'une table GRIST disposant de coordonnées géographiques sur un fond cartes.gouv",
+  "url": "https://lesagnic.github.io/widget-grist-cartes.gouv/index.html",
+  "accessLevel": "read table",
+  "parameters": []
+}
